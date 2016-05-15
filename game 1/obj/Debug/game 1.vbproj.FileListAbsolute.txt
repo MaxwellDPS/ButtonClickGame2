@@ -1,0 +1,17 @@
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\bin\Debug\game 1.exe.config
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\bin\Debug\game 1.exe
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\bin\Debug\game 1.pdb
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\bin\Debug\game 1.xml
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game 1.vbprojResolveAssemblyReference.cache
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game_1.Form1.resources
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game_1.Resources.resources
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game 1.vbproj.GenerateResource.Cache
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game 1.exe
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game 1.xml
+c:\users\water_000\documents\visual studio 2015\Projects\game 1\game 1\obj\Debug\game 1.pdb
+C:\Users\water_000\Documents\Visual Studio 2015\Projects\game 1\game 1\obj\Debug\game_1.Form2.resources
+C:\Users\water_000\Documents\Visual Studio 2015\Projects\game 1\game 1\bin\Debug\game 1.exe.manifest
+C:\Users\water_000\Documents\Visual Studio 2015\Projects\game 1\game 1\bin\Debug\game 1.application
+C:\Users\water_000\Documents\Visual Studio 2015\Projects\game 1\game 1\obj\Debug\game 1.exe.manifest
+C:\Users\water_000\Documents\Visual Studio 2015\Projects\game 1\game 1\obj\Debug\game 1.application
+C:\Users\water_000\Documents\Visual Studio 2015\Projects\game 1\game 1\obj\Debug\game_1.Form3.resources
